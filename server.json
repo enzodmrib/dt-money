@@ -15,6 +15,22 @@
       "category": "Compra",
       "price": 60,
       "createdAt": "2023-01-18T05:10:56.602Z"
+    },
+    {
+      "category": "Compra",
+      "description": "Nova",
+      "price": 100,
+      "type": "outcome",
+      "createdAt": "2023-01-18T06:28:07.131Z",
+      "id": 3
+    },
+    {
+      "category": "Alimentação",
+      "description": "Iogurte",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2023-01-18T06:34:57.893Z",
+      "id": 4
     }
   ]
 }

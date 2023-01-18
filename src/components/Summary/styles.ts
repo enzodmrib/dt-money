@@ -25,7 +25,7 @@ export const SummaryCard = styled.div<SummaryCardProps>`
   header {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     color: ${(props) => props.theme['gray-300']};
   }
 
